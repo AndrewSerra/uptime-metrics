@@ -1,0 +1,5 @@
+database:
+    username: "default"
+    host: "http://localhost:8086"
+    token: "tR60135400"
+    org: "acs-dev"
