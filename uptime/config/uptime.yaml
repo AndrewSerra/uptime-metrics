@@ -1,5 +1,9 @@
+time:
+  amount: "1s"
+
 database:
-    username: "default"
+    bucket: "test-bucket"
     host: "http://localhost:8086"
     token: "tR60135400"
     org: "acs-dev"
+
