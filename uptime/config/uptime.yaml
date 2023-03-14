@@ -4,6 +4,6 @@ time:
 database:
     bucket: "test-bucket"
     host: "http://localhost:8086"
-    token: "tR60135400"
+    token: "AS1e3YTxMnPWjVJBHF_weii6bKG1lXJKJHRTriVY-z8PUq71zJLRnn7pG7YXzqJ1lbyo4yPQc3KC8b94fjZAiA=="
     org: "acs-dev"
 
